@@ -1,6 +1,6 @@
-b9c39e42e22aa89fc4967b1617068182 *DESCRIPTION
+60485d8fe7bd0249c0a8b05e12e93f13 *DESCRIPTION
 9ffd49693580f9d8af954463ffe85d5e *LICENSE
-6385eedb36d291f0e68eb1c78b0641f6 *NAMESPACE
+17d9140ea590b33e9b26488ac1b839d4 *NAMESPACE
 9c927b6795e83f03de73f16f6b84ffd4 *R/1.weaanaClass.R
 44535d1e1dda723d1cf30488c3fba658 *R/changeWeatherRecords.R
 55ca2df8e8df47ba4565ba0809ce7c24 *R/convert2Records.R
@@ -22,7 +22,7 @@ f814d2cd45b0575bd02d937223377d12 *R/movExtreme.r
 a1c56fe9120aa3268ef49152b7d7a8e5 *R/numberFrostDay.R
 790f2c1df9969c2a3182fcd0b3a7956d *R/numberHeatDay.R
 960ceb2503c09344b9a8d9b2fef4fbeb *R/periodIndex.r
-8ceddc5b180d793122dcf6c41bbbfa6e *R/readWeatherRecords.r
+6d1758675a06f1008f21e77b89fdc271 *R/readWeatherRecords.r
 8e765bae15265138c0621f3613ba2dd8 *R/registerRes.R
 658bff850e6c8a9fca2db34d09afae33 *R/showWeaAna.R
 6e0278f58a1d67cb362b110ad93bcb0c *R/sphericalDistance.R
@@ -32,8 +32,8 @@ e65593844c2e6e6025e4c494e1fd0194 *R/string.r
 376cf2adf370cf4ba02cfd80bc10cfa6 *R/vpd.apsim.r
 9dd2cb87595204e86a3316dfb525a4c2 *R/wapply.R
 872d55db18fe57227a81602a30c43533 *R/wcal.R
-ae9edce326af4b52000aaba746d219f9 *R/writeWeatherRecords.R
-b7fa4fa24dfe7d54759d7987c382e36c *README.md
+315db5b8453410e0c277d6e03942ae98 *R/writeWeatherRecords.R
+278b1550dab977ffae1a4a1dc3502164 *README.md
 327081e713ae3baec6b8bf9d074f9521 *data/records.rda
 a50569b7c1be091c58e0fbefdb95c366 *inst/extdata/WeatherHourly.csv
 b494d7b5bac4ef768066e071be2e4978 *inst/extdata/WeatherRecordsDemo1.met
